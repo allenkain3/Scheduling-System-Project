@@ -1,0 +1,13 @@
+Kai, Sunday, Closing
+Kim, Monday, Opening
+Hannah, Monday, Opening
+Anna, Monday, Closing
+Kai, Sunday, Opening
+Kim, Monday, Closing
+Kai, Tuesday, Closing
+Hannah, Tuesday, Closing
+Anna, Tuesday, Opening
+Anna, Sunday, Closing
+Kim, Sunday, Opening
+Kai, Monday, Closing
+
